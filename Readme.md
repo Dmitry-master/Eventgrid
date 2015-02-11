@@ -1,6 +1,6 @@
 <h1>EventGrid</h1>
-<h2>Online event manager</h2>
-<a href="http://eventgrid.ace-dev.net/index.html">Eventgrid</a>
+<h2><a href="http://eventgrid.ace-dev.net/index.html">Eventgrid</a></h2>
+<p>Online event manager</p>
 
 <span>Stack:</span>
 <ul>
